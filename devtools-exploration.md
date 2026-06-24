@@ -1,14 +1,14 @@
 ## www.wikipedia.com
 #  The title is Wikipedia
 # The tags are;
-- [ ] <html>
-- [ ] <head>
-- [ ] <body>
-- [ ] <a>
+- [ ] html tag
+- [ ] head tag
+- [ ] body tag
+- [ ] a tag
 > It has 11 headings
 
 
-# The navigation menu is wraped in the <nav> tag
+# The navigation menu is wraped in the nav tag
 # The entire search layout is contained within a semantic <search> element, which acts as an official landmark container.
 
 - [ ] The default underline is often toggled or changed (e.g., standard links will gain an explicit text-decoration: underline; if they do not have one, or change color contrast to signify visual focus)
@@ -17,11 +17,11 @@
 
 ## www.kcbgroup.co.ke
 # The html tags are;
-- <a>
-- <div>
-- <nav>
-- <img>
-- <h2>
+- a tag
+- div tag
+- nav tag
+- img tag
+- h2 tag
 - [ ] input type="text" Captures your dedicated, alphanumeric User ID
 - [ ] input type="password": Securely masks character inputs when entering your internet banking password.
 - [ ] input type="submit" (or targeted click <button> configurations): Submits verification tokens directly to the validation engine
