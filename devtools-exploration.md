@@ -1,6 +1,6 @@
 ## www.wikipedia.com
 #  The title is Wikipedia
-#The tags are;
+# The tags are;
 - [ ] <html>
 - [ ] <head>
 - [ ] <body>
